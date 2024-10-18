@@ -1,0 +1,20 @@
+{
+  "name": "alab-promises-and-async-await",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitsumbabay/-ALAB-Promises-and-async-await.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitsumbabay/-ALAB-Promises-and-async-await/issues"
+  },
+  "homepage": "https://github.com/fitsumbabay/-ALAB-Promises-and-async-await#readme"
+}
